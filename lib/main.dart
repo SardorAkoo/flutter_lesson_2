@@ -47,6 +47,22 @@ class MyApp extends StatelessWidget {
                         "BANK NAME",
                         style: TextStyle(fontSize: 20, color: Colors.white),
                       ),
+                      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      ////dvbgfbfgbdsf
                       CachedNetworkImage(
                         imageUrl:
                             "https://cdn.iconscout.com/icon/premium/png-256-thumb/credit-card-chip-1522324-1288446.png?f=webp",
